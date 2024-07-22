@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+alarm-clock/android
+alarm-clock/.bash_history
+alarm-clock/.npm
+alarm-clock/node_modules
+alarm-clock/dist
+
+
+
